@@ -31,4 +31,6 @@ AWS РЕСУРСИ, ЩО МОЖУТЬ ТОБІ ЗНАДОБИТИСЯ
 
 Тобі залишається написати свій солюшн, щоб досягти цілі :)
 
-
+https://medium.com/@mertcal/install-nginx-on-ec2-instance-in-30-seconds-e714d427b01b
+https://medium.com/@devopslearning/aws-iam-ec2-instance-role-using-terraform-fa2b21488536
+https://medium.com/@ratulbasak93/aws-elb-and-autoscaling-using-terraform-9999e6266734
