@@ -1,5 +1,4 @@
 # aws_test_task
-Test task
 
 https://dou.ua/calendar/28131/
 
